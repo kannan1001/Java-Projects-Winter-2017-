@@ -29,7 +29,7 @@ public class ProbB {
 }
 
 /* 
-1.Name of program:To display "CIS 35A ONLINE MEETINGS"
+1.Name of program:To display "Perfect Numbers between 2 and 1000"
 2.Programmer's name:Geerthana Kannan
 3.Current Date:1/24/2017
 4.Computer system and compiler you are using:Lenovo Windows 10 ,Eclipse compiler for Java
